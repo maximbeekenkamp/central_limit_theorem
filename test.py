@@ -15,5 +15,7 @@ for x in range(0,b):
 num_bins = 21
 plt.hist(N,num_bins,(-0.5,num_bins-0.5))
 plt.show()
+
+print("I am Maxim")
 #print(N)
 
